@@ -12,3 +12,6 @@ Thumbs.db
 .git/
 */.git/
 
+# 심볼릭 링크가 있는 폴더 무시
+node_modules/
+
